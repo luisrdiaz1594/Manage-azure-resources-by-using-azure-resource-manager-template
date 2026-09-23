@@ -1,0 +1,1 @@
+# Manage-azure-resources-by-using-azure-resource-manager-template
